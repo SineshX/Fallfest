@@ -1,0 +1,4 @@
+# Ignore files with extension `.class`
+*.class
+# Unignore '/bin' dirs
+bin/

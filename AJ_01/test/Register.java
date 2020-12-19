@@ -228,7 +228,7 @@ public class Register extends JFrame implements ActionListener
 
 				else if(button.equals(btnSubmit))
 				{
-					String name = txtFirstName.getText();
+					//String name = txtFirstName.getText();
 					// int var=verify();
 
 					// if(var==1)

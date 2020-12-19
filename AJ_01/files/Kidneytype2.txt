@@ -1,0 +1,9 @@
+Disease
+->Polycystic kidney disease. 
+->Urinary tract infections.
+
+Cure
+->Get some vitamin C. 
+->Try parsley juice. 
+->Consume apples and apple juice. 
+->Take an Epsom salt bath.

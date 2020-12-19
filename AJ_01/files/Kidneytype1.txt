@@ -1,0 +1,10 @@
+Disease
+->Chronic kidney disease. 
+->Kidney stones. 
+->Glomerulonephritis.
+
+Cure 
+->Drink lots of water. 
+->Drink cranberry juice. 
+->Avoid alcohol and coffee. 
+->Take probiotics. 
